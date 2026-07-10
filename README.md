@@ -20,8 +20,8 @@ Klaus is a custom animated pet for Codex. He stays calm while you think, gets mo
     <td align="center"><img src="images/waiting.gif" width="160" alt="Klaus waiting"><br><strong>Waiting</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/running.gif" width="160" alt="Klaus working"><br><strong>Working</strong></td>
-    <td align="center"><img src="images/review.gif" width="160" alt="Klaus reviewing"><br><strong>Reviewing</strong></td>
+    <td align="center"><img src="images/running.gif" width="160" alt="Klaus standing and curling two dumbbells"><br><strong>Working</strong></td>
+    <td align="center"><img src="images/review.gif" width="160" alt="Klaus wearing reading glasses and reading an open book"><br><strong>Reviewing</strong></td>
     <td align="center"><img src="images/failed.gif" width="160" alt="Klaus reacting to a failure"><br><strong>Oops!</strong></td>
   </tr>
 </table>
