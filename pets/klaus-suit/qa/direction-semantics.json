@@ -1,0 +1,171 @@
+{
+  "ok": true,
+  "reviewed_by": "independent suit_final_qa",
+  "directions": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": {
+        "horizontal": "Centered nose and balanced pupils",
+        "vertical": "Upward nose, lifted chin, beard underside exposed"
+      },
+      "reason": "H: Centered nose and balanced pupils; V: Upward nose, lifted chin, beard underside exposed"
+    },
+    {
+      "direction": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": {
+        "horizontal": "Face and nose turn right",
+        "vertical": "Eyes and chin lift strongly"
+      },
+      "reason": "H: Face and nose turn right; V: Eyes and chin lift strongly"
+    },
+    {
+      "direction": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": {
+        "horizontal": "Nose and face aim right",
+        "vertical": "Raised chin and upward eye line"
+      },
+      "reason": "H: Nose and face aim right; V: Raised chin and upward eye line"
+    },
+    {
+      "direction": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": {
+        "horizontal": "Pronounced rightward profile",
+        "vertical": "Chin slightly raised above level-right"
+      },
+      "reason": "H: Pronounced rightward profile; V: Chin slightly raised above level-right"
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": {
+        "horizontal": "Nose right of crown center; pupil aims right",
+        "vertical": "Approximately level eye/nose line"
+      },
+      "reason": "H: Nose right of crown center; pupil aims right; V: Approximately level eye/nose line"
+    },
+    {
+      "direction": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": {
+        "horizontal": "Face and nose remain rightward",
+        "vertical": "Chin lowers and gaze slopes down"
+      },
+      "reason": "H: Face and nose remain rightward; V: Chin lowers and gaze slopes down"
+    },
+    {
+      "direction": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": {
+        "horizontal": "Nose right of head center",
+        "vertical": "Lowered eyes and visible crown"
+      },
+      "reason": "H: Nose right of head center; V: Lowered eyes and visible crown"
+    },
+    {
+      "direction": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": {
+        "horizontal": "Small rightward bowed-face turn",
+        "vertical": "Crown dominates; chin near collar"
+      },
+      "reason": "H: Small rightward bowed-face turn; V: Crown dominates; chin near collar"
+    },
+    {
+      "direction": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": {
+        "horizontal": "Centered nose above tie; symmetric head",
+        "vertical": "Crown faces viewer; pupils beneath brow; chin tucked"
+      },
+      "reason": "H: Centered nose above tie; symmetric head; V: Crown faces viewer; pupils beneath brow; chin tucked"
+    },
+    {
+      "direction": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": {
+        "horizontal": "Bowed face and nose angle left",
+        "vertical": "Eyes lowered; crown exposed"
+      },
+      "reason": "H: Bowed face and nose angle left; V: Eyes lowered; crown exposed"
+    },
+    {
+      "direction": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": {
+        "horizontal": "Clear leftward nose and face",
+        "vertical": "Tucked chin; downward gaze"
+      },
+      "reason": "H: Clear leftward nose and face; V: Tucked chin; downward gaze"
+    },
+    {
+      "direction": "247.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": {
+        "horizontal": "Pronounced left profile",
+        "vertical": "Nose/chin below level-left"
+      },
+      "reason": "H: Pronounced left profile; V: Nose/chin below level-left"
+    },
+    {
+      "direction": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": {
+        "horizontal": "Nose left of crown center; pupil aims left",
+        "vertical": "Approximately level eye/nose line"
+      },
+      "reason": "H: Nose left of crown center; pupil aims left; V: Approximately level eye/nose line"
+    },
+    {
+      "direction": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": {
+        "horizontal": "Face and nose left",
+        "vertical": "Raised nose and chin"
+      },
+      "reason": "H: Face and nose left; V: Raised nose and chin"
+    },
+    {
+      "direction": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": {
+        "horizontal": "Definite leftward face",
+        "vertical": "Strong chin lift and upward eyes"
+      },
+      "reason": "H: Definite leftward face; V: Strong chin lift and upward eyes"
+    },
+    {
+      "direction": "337.5",
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": {
+        "horizontal": "Subtle left bias approaches centered-up from 315",
+        "vertical": "Lifted chin and beard underside clearly up"
+      },
+      "reason": "H: Subtle left bias approaches centered-up from 315; V: Lifted chin and beard underside clearly up"
+    }
+  ],
+  "review_notes": [
+    "337.5 native-size horizontal ambiguity is minor in the coherent labeled loop; no reversal or wrong quadrant.",
+    "Continuity hole warnings are intentional lower-leg/shoe gaps, not cuts through anatomy.",
+    "Stable-slot motion reviewed; no conspicuous size popping. Successful despill and v2 validation close chroma review."
+  ]
+}

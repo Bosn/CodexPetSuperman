@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "evidence": [
+    "contact-sheet.png",
+    "previews/",
+    "jumping-extraction-decision.json"
+  ],
+  "extraction": "stable-slots",
+  "notes": [
+    "Reviewed complete ordered standard contact sheet: all nine states present, unchanged character identity and outfit, complete separated bodies, readable wave/curls/book/asking/failure and alternating gait.",
+    "Auto extraction normalized crouches and jump baseline; source frames have stable size. Shared viewport restores jump displacement and prevents within-row size popping.",
+    "Fitness and beach fixed-slot mirror candidates were rejected for neighbor fragments; final leftward rows are newly generated coherent strips.",
+    "Stable-slots extraction warnings reviewed; no clipping or fragments remain."
+  ]
+}

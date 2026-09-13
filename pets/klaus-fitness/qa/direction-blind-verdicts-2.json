@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A raised nose and pupils point left; B raised nose and pupils point right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left with visible right ear; B nose projects right with visible left ear."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A profile and nose face right; B profile and nose face left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose protrudes right of beard; B nose protrudes left of beard."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered face presents a leftward nose; B lowered face presents a rightward nose."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A bowed head retains rightward nose and eye direction; B bowed head points left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A downward tilted face shows nose toward right; B downward tilted face shows nose toward left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin lifts and face tilts upward; B crown dominates with face lowered toward chest."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose and eyes angle down with tucked chin; B raised chin and upward eye line indicate up."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and chin lift; B head bows and eyes look toward chest."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A brow and nose angle down with chin tucked; B nose and eye line rise with chin extended."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A crown is prominent and nose points down; B head tilts back with raised nose and eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifted chin and upward pupil direction indicate up; B forehead tilts down and nose drops."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and eye line angle upward with raised chin; B eyes and nose angle down with lowered chin."
+    }
+  ]
+}

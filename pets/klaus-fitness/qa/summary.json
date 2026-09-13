@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "atlas_size": [
+    1536,
+    2288
+  ],
+  "cell_size": [
+    192,
+    208
+  ],
+  "standard_animation_count": 9,
+  "look_direction_count": 16,
+  "populated_frames": 73,
+  "sha256": "3594a2911562af6553243ed39675d950f11e38fef4521549162bb00c33a5b202",
+  "checks": {
+    "atlas": true,
+    "despill": true,
+    "frames": true,
+    "blind": true,
+    "semantics": true,
+    "visual": true
+  },
+  "independent_blind_reviewers": 3,
+  "visual_warnings": [
+    "Some adjacent intermediate angles are similar with moderately varied increments, but no wrong quadrants or reversal.",
+    "Leg/shoe alpha candidates are intentional spaces, not sliced body holes.",
+    "337.5 to 000 head pitch/yaw changes without conspicuous scale or registration snap.",
+    "Stable-slot extraction is complete and stable; validation, despill and blind checks all pass."
+  ],
+  "packaged_at": "2026-09-13T12:06:04.885274+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and pupils project left; B nose and pupils project right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A upward face has a rightward nose; B upward face has a leftward nose."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A facial profile and eyes point right; B facial profile and eyes point left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose protrudes right of the beard; B nose protrudes left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered eyes and nose face right; B lowered eyes and nose face left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A bowed profile points left; B bowed profile points right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose lies left beneath the lowered brow; B nose lies right beneath the lowered brow."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A crown is exposed and chin tucked; B raised chin exposes the underside of the nose."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A eyes and nose angle upward with neck extended; B crown dominates above eyes aimed toward the chest."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised nose and pupils point up; B lowered brow and nose point down."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin rises with the pupils directed above horizontal; B eyelids and nose tilt toward the shoulder."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised chin and elevated pupils show an upward gaze; B chin is tucked below a prominent crown."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and pupils rise above the cheek; B face tilts down toward the shirt opening."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A nose and pupils slope toward the shoulder; B reads chiefly as a lateral profile with uncertain vertical eye direction."
+    }
+  ]
+}

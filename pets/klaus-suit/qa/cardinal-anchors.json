@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "strip": "decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        514,
+        765
+      ],
+      "used_pixels": 180572,
+      "edge_pixels": 0,
+      "output": "decoded/look-anchors/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        514,
+        0,
+        1028,
+        765
+      ],
+      "used_pixels": 181748,
+      "edge_pixels": 0,
+      "output": "decoded/look-anchors/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1028,
+        0,
+        1542,
+        765
+      ],
+      "used_pixels": 180588,
+      "edge_pixels": 0,
+      "output": "decoded/look-anchors/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1542,
+        0,
+        2056,
+        765
+      ],
+      "used_pixels": 181764,
+      "edge_pixels": 0,
+      "output": "decoded/look-anchors/270.png"
+    }
+  ],
+  "repair_270": {
+    "source": "decoded/look-anchor-270-source.png",
+    "ok": true,
+    "source_edge_pixels": 0,
+    "note": "Original generated 270 incorrectly faced right. Independently generated replacement has nose and pupil on screen-left with front-facing torso."
+  }
+}

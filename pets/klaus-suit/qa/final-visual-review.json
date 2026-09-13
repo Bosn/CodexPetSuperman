@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "visual_qa": "pass",
+  "reviewed_by": "independent suit_final_qa",
+  "qa_note": "All nine states preserve original muscular identity, hair, beard and face in the navy suit. Native frames show idle breathing/blinking, alternating strides and distinct actions, stable scale, intact silhouettes and coherent clockwise gaze.",
+  "warnings": [
+    "337.5 native-size horizontal ambiguity is minor in the coherent labeled loop; no reversal or wrong quadrant.",
+    "Continuity hole warnings are intentional lower-leg/shoe gaps, not cuts through anatomy.",
+    "Stable-slot motion reviewed; no conspicuous size popping. Successful despill and v2 validation close chroma review."
+  ],
+  "repair_rows": []
+}

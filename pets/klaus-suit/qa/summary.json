@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "atlas_size": [
+    1536,
+    2288
+  ],
+  "cell_size": [
+    192,
+    208
+  ],
+  "standard_animation_count": 9,
+  "look_direction_count": 16,
+  "populated_frames": 73,
+  "sha256": "b2a38f8d73be5aa794a57e0c8a1b3e2ec8234a03c06994f97d3a685ec726f530",
+  "checks": {
+    "atlas": true,
+    "despill": true,
+    "frames": true,
+    "blind": true,
+    "semantics": true,
+    "visual": true
+  },
+  "independent_blind_reviewers": 3,
+  "visual_warnings": [
+    "337.5 native-size horizontal ambiguity is minor in the coherent labeled loop; no reversal or wrong quadrant.",
+    "Continuity hole warnings are intentional lower-leg/shoe gaps, not cuts through anatomy.",
+    "Stable-slot motion reviewed; no conspicuous size popping. Successful despill and v2 validation close chroma review."
+  ],
+  "packaged_at": "2026-09-13T12:06:05.168277+00:00"
+}

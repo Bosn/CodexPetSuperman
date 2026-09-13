@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "visual_qa": "pass",
+  "reviewed_by": "independent fitness_final_qa",
+  "qa_note": "All nine states preserve original face, black hair/beard, pixel style, huge muscles and fitness outfit. Sequential final frames show idle breathing/blinking, alternating gait, appropriate motions, stable scale and complete silhouettes.",
+  "warnings": [
+    "Some adjacent intermediate angles are similar with moderately varied increments, but no wrong quadrants or reversal.",
+    "Leg/shoe alpha candidates are intentional spaces, not sliced body holes.",
+    "337.5 to 000 head pitch/yaw changes without conspicuous scale or registration snap.",
+    "Stable-slot extraction is complete and stable; validation, despill and blind checks all pass."
+  ],
+  "repair_rows": []
+}
